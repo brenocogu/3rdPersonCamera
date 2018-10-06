@@ -8,7 +8,7 @@ Simple 3rd person camera controller
 
 ## Know issues
 * If you rotate the camera to max-value top or the max-value bottom (something like the head or the foot of the character, it'll flip in a strange movement  
-* It ignores collision with some object's, leaving it inside they could cause some problems depending in the complexity of the object
+* It ignores collision with some object's, leaving it inside that could cause some problems depending in the complexity of the object
 
 
 ## FAQ
