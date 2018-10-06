@@ -17,7 +17,7 @@ Simple 3rd person camera controller
 >A: The Unity 3rd person camera is a little strange from the pattern in the commom gameplay. If you see, it'll rotate the charater with the camera, giving a strange behaviour that doesn't look real/OK
 
 ***Q: This project come with an tutorial or anything like?***
->A: Yes, you should find a tutorial inside this project folder, and it cames with an functional player model with animation
+>A: Not yet, but it cames with an functional player model with animation
 
 ***Q: It'll have further develop, such an option X or optimization in Y?***
 >A: Yes, i'll be adding new features (such as animation optimization, more options for the camera, etcs) to the project while I have free time to spent on it. Besides, fell free to improve it yourself
